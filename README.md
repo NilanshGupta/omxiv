@@ -19,7 +19,7 @@ And install with:
 USAGE: 
     
     omxiv [OPTIONS] image1 [image2] ...
-    omxiv [OPTIONS] directory
+    omxiv [OPTIONS] directories
 
     Without any input it will cycle through all
     supported images in the current directory.
